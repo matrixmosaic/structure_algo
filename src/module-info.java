@@ -1,0 +1,2 @@
+module structure_algo {
+}
